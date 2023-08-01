@@ -1,6 +1,8 @@
 # Benchmarking Code Generation with LLMs
 
-Below is a comparison of code generation success with GPT-3.5 and GPT-4 using the <a href="https://github.com/openai/human-eval">HumanEval</a> problem dataset. Each task was evaluated ten times per model, by first making a call to the OpenAI API, then running generated code against unit tests. Traces from each run are linked in the table below.
+Below is a comparison of code generation success with GPT-3.5 and GPT-4 using the <a href="https://github.com/jamesmurdza/human-eval">HumanEval</a> problem dataset. Each task was evaluated ten times per model, by first making a call to the OpenAI API, then running generated code against unit tests. Traces from each run are linked in the table below.
+
+These results were generated with the [HumanEval-LangChain workflow](https://github.com/jamesmurdza/humaneval-langchain).
 
 ## Results
 
