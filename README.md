@@ -16,6 +16,12 @@ These results were generated with the [HumanEval-LangChain workflow](https://git
     <th>Overall success</th>
   </tr>
   <tr>
+    <td>CodeLlama-34b-Instruct-hf</td>
+    <td>10</td>
+    <td>163</td>
+    <td>45.1%</td>
+  </tr>
+  <tr>
     <td>gpt-3.5-turbo</td>
     <td>10</td>
     <td>163</td>
@@ -26,12 +32,6 @@ These results were generated with the [HumanEval-LangChain workflow](https://git
     <td>10</td>
     <td>163</td>
     <td>84.8%</td>
-  </tr>
-  <tr>
-    <td>CodeLlama-34b-Instruct-hf</td>
-    <td>10</td>
-    <td>163</td>
-    <td>45.1%</td>
   </tr>
 </table>
 
